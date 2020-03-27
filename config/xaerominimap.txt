@@ -51,8 +51,8 @@ waypointTp:tp @s
 arrowScale:1.5
 arrowColour:0
 smoothDots:true
-playerHeads:false
-heightLimit:20
+playerHeads:true
+heightLimit:40
 worldMap:true
 terrainDepth:true
 terrainSlopes:true
